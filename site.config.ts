@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '7c9d593f4d894569940a5e0527568607',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Ahmer\'s Programming Portfolio',
+  domain: 'muhammad-ahmer',
+  author: 'Muhammad Ahmer',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Welcome to my Computer Science Portfolio! My name is Ahmer, and I am a Junior II studying Computer Science at the American University of Sharjah. I am set to graduate in May 2024, and I am passionate about data science, healthcare, specifically cancer research and genomics, and music production.\n Through my portfolio, you\'ll find a collection of my projects, assignments, and personal explorations in these fields. As a computer science student, I have gained a solid foundation in various programming languages, data structures, algorithms, and software development methodologies. I am constantly learning new technologies and experimenting with different programming paradigms.\n My interest in healthcare stems from my desire to use my technical skills to make a positive impact on society. I am fascinated by the potential of data science and genomics to revolutionize cancer research and improve patient outcomes. In addition, I have a keen interest in music production and have spent time honing my skills in this area. \nI hope my portfolio provides you with an insight into my skills, interests, and passion for using technology to drive positive change. Please feel free to explore my work, and don\'t hesitate to reach out to me if you have any questions or would like to collaborate.',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'muhammad_ahmer',
+  github: 'https://github.com/MuhammadAhmer000',
+  linkedin: 'https://www.linkedin.com/in/muhammad-ahmer-/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
